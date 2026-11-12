@@ -1,2 +1,2 @@
-# blip-privacy-policy
-Privacy Policy for Blip App
+# Hourly Chime & Water Reminder-privacy-policy
+Privacy Policy for Hourly Chime & Water Reminder App
